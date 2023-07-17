@@ -2,7 +2,7 @@
 :root {
     --main-white: #f0f0f0;
     --main-red: #be3144;
-    --main-blue: #45567d;
+    --main-blue: #040915;
     --main-gray: #303841;
   }
   
@@ -223,7 +223,7 @@
   .project-image {
     height: calc(100% - 6.8rem);
     width: 100%;
-    object-fit: cover;
+    object-fit: fill;
   }
   
   .project-title {
